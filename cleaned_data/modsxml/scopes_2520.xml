@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">scopes_2520</identifier>
+   <identifier type="local">0012_000416_000589</identifier>
+   <titleInfo>
+      <title>Address of William G. McAdoo at Bryan's Memorial Services</title>
+   </titleInfo>
+   <abstract>Address from statesman praises Bryan's honesty, morality, Christianity.</abstract>
+   <originInfo>
+      <dateCreated>8/9/2025</dateCreated>
+      <dateCreated encoding="edtf">2025-08-09</dateCreated>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
+      <extent>1 booklet, 8 pages (8 5/8 in x 5 1/2 in)</extent>
+   </physicalDescription>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 17</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">use and reproduction</accessCondition>
+</mods>

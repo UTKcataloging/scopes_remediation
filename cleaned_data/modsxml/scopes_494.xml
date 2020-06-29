@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">scopes_494</identifier>
+   <identifier type="local">0012_000416_000089</identifier>
+   <titleInfo>
+      <title>"Science" magazine</title>
+   </titleInfo>
+   <abstract>Complete issue; reprints speech "Evolutionary Faith and Modern Doubts" by William Bateson pgs 55-61; ultimately affirms evolutionary theory</abstract>
+   <originInfo>
+      <dateCreated>1/20/1922</dateCreated>
+      <dateCreated encoding="edtf">1922-01-20</dateCreated>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>1 magazine (40 pages; article is 7 pages)</extent>
+   </physicalDescription>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 4</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">use and reproduction</accessCondition>
+</mods>

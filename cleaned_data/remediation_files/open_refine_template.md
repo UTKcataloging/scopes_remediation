@@ -27,7 +27,7 @@
 
 <language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['extent'].value}}</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['extent'].value}}</extent>{{if(isBlank(cells["extent2"].value),'', '<extent>' + cells['extent2'].value + '</extent>')}}</physicalDescription>
 
 {{if(isBlank(cells['subject.0geographic'].value), '', '<subject' + if(isBlank(cells['subject.0geographic_URI'].value), '>', ' authority="naf" valueURI="' + cells['subject.0geographic_URI'].value + '">') + '<geographic>' + cells['subject.0geographic'].value + '</geographic></subject>')}}
 
@@ -46,12 +46,13 @@
 <typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
 
 <relatedItem displayLabel="{{cells['relatedItem_label'].value}}" type="host"><titleInfo><title>{{cells['relatedItem'].value}}</title></titleInfo><identifier>{{cells['relatedItem_identifier'].value}}</identifier></relatedItem>
+<relatedItem displayLabel="{{cells['relatedItem_label.1'].value}}" type="host"><titleInfo><title>{{cells['relatedItem.1'].value}}</title></titleInfo><identifier>{{cells['relatedItem_identifier'].value}}</identifier></relatedItem>
 
-<location><physicalLocation valueURI="{{cells['physicalLocation_URI'].value}}">{{cells['physicalLocation'].value}}</physicalLocation><shelfLocator>{{cells['physicalLocation.1'].value}}</shelfLocator></location>
+<location><physicalLocation valueURI="{{cells['physicalLocation_URI'].value}}">{{cells['physicalLocation'].value}}</physicalLocation>{{if(isBlank(cells["physicalLocation.1"].value),'', '<shelfLocator>' + cells['physicalLocation.1'].value + '</shelfLocator>')}}</location>
 
 <recordInfo><recordContentSource valueURI="{{cells['source_URI'].value}}">{{cells['source'].value}}</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="{{cells['accessCondition_URI'].value}}">{{cells['accessCondition'].value}}</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="{{cells['Copyright_URI'].value}}">{{cells['Copyright'].value}}</accessCondition>
 
 </mods>
 ```

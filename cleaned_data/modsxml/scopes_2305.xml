@@ -19,8 +19,13 @@
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
-      <extent>1 manuscript (3 pages, 14 in x 8 1/2 in)</extent>
+      <extent>3 pages</extent>
+      <extent>14 in x 8 1/2 in</extent>
    </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99001302">
+      <topic>Trials, litigation, etc</topic>
+   </subject>
    <typeOfResource>text</typeOfResource>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -28,13 +33,19 @@
       </titleInfo>
       <identifier>MPA.0136</identifier>
    </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
       <shelfLocator>Box 5, Folder 14</shelfLocator>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">use and reproduction</accessCondition>
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>

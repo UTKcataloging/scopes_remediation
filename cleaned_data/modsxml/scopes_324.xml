@@ -12,14 +12,13 @@
    <abstract>Typewritten argument refuting evolution and promoting creationism.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
-      <dateCreated encoding="edtf">unknown</dateCreated>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
-      <extent>1 manuscript (7 pages)</extent>
+      <extent>7 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85013799">
@@ -36,13 +35,19 @@
       </titleInfo>
       <identifier>MPA.0136</identifier>
    </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
       <shelfLocator>Box 5, Folder 2</shelfLocator>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">use and reproduction</accessCondition>
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>

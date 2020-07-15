@@ -12,15 +12,20 @@
    <abstract>Catalog lists available titles including a reprint of the transcript of the Scopes trial.</abstract>
    <originInfo>
       <dateCreated>1970</dateCreated>
-      <dateCreated encoding="edtf">1970-01-01</dateCreated>
+      <dateCreated encoding="edtf">1970</dateCreated>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
-      <extent>1 pamphlet (32 pages, 8 1/2 in x 3 1/3 in</extent>
+      <extent>32 pages</extent>
+      <extent>8 1/2 in x 3 1/3 in</extent>
    </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99001302">
+      <topic>Trials, litigation, etc</topic>
+   </subject>
    <typeOfResource>text</typeOfResource>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -28,13 +33,19 @@
       </titleInfo>
       <identifier>MPA.0136</identifier>
    </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
       <shelfLocator>Box 5, Folder 14</shelfLocator>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">use and reproduction</accessCondition>
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>

@@ -46,7 +46,7 @@
 <typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
 
 <relatedItem displayLabel="{{cells['relatedItem_label'].value}}" type="host"><titleInfo><title>{{cells['relatedItem'].value}}</title></titleInfo><identifier>{{cells['relatedItem_identifier'].value}}</identifier></relatedItem>
-<relatedItem displayLabel="{{cells['relatedItem_label.1'].value}}" type="host"><titleInfo><title>{{cells['relatedItem.1'].value}}</title></titleInfo><identifier>{{cells['relatedItem_identifier'].value}}</identifier></relatedItem>
+<relatedItem displayLabel="{{cells['relatedItem_label.1'].value}}" type="host"><titleInfo><title>{{cells['relatedItem.1'].value}}</title></titleInfo></relatedItem>
 
 <location><physicalLocation valueURI="{{cells['physicalLocation_URI'].value}}">{{cells['physicalLocation'].value}}</physicalLocation>{{if(isBlank(cells["physicalLocation.1"].value),'', '<shelfLocator>' + cells['physicalLocation.1'].value + '</shelfLocator>')}}</location>
 

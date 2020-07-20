@@ -47,17 +47,16 @@
       </name>
    </subject>
    <typeOfResource>still image</typeOfResource>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-      </titleInfo>
-      <identifier>MS.1091</identifier>
-   </relatedItem>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>W.C. Robinson Collection of Scopes Trial Photographs, circa 1925, circa 1976</title>
       </titleInfo>
       <identifier>MS.1091</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
    </relatedItem>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>

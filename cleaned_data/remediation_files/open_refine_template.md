@@ -54,6 +54,12 @@
 
 <accessCondition type="use and reproduction" xlink:href="{{cells['Copyright_URI'].value}}">{{cells['Copyright'].value}}</accessCondition>
 
+{{if(isBlank(cells['note.0'].value), '', '<note displayLabel="dpn">' + cells['note.0'].value + '</note>')}}
+
+{{if(isBlank(cells['note.1'].value), '', '<note displayLabel="dpn">' + cells['note.1'].value + '</note>')}}
+
+{{if(isBlank(cells['note.2'].value), '', '<note displayLabel="dpn">' + cells['note.2'].value + '</note>')}}
+
 </mods>
 ```
 

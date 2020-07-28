@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>5/25/1925</dateCreated>
       <dateCreated encoding="edtf">1925-05-25</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79021240">Los Angeles (Calif.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

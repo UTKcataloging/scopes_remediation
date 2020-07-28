@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>1/2/1926</dateCreated>
       <dateCreated encoding="edtf">1926-01-02</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78086438">Chicago (Ill.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -46,6 +49,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">Letter is missing pieces on the right side.</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>Letter is missing pieces on the right side.</note>
 </mods>

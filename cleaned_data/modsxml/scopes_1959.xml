@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>1925</dateCreated>
       <dateCreated encoding="edtf">1925</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78059789">Marcus Hook, PA</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

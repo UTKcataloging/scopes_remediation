@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/14/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79046046">Berkeley (Calif.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

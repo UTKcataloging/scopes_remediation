@@ -28,6 +28,9 @@
    <originInfo>
       <dateCreated>6/1/1925</dateCreated>
       <dateCreated encoding="edtf">1925-06-01</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

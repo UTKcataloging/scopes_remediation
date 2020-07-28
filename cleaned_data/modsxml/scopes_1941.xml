@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>6/26/1919</dateCreated>
       <dateCreated encoding="edtf">1919-06-26</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79117989">Haywood County (N.C.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

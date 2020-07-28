@@ -12,6 +12,9 @@
    <abstract>Pamphlet on Christian doctrine, necessity of nonbelievers along with the elect.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n85207529">Waukesha (Wis.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

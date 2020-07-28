@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>1975</dateCreated>
       <dateCreated encoding="edtf">1975</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n85081939">Madisonville (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

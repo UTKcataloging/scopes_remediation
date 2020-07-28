@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>6/5/1925</dateCreated>
       <dateCreated encoding="edtf">1925-06-05</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n82033085">Middlesboro (Ky.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

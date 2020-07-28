@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>1925</dateCreated>
       <dateCreated encoding="edtf">1925</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n81139865">Rhea County (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -21,6 +24,7 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
       <extent>1 page</extent>
    </physicalDescription>
+   <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027754">indictments (legal documents)</genre>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh99001302">
       <topic>Trials, litigation, etc</topic>

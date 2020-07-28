@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/4/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-04</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79006530">Baltimore (Md.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -46,6 +49,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">Contains 4 typewritten pages, and extra handwritten notes on verso of 3rd typewritten page.</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>Contains 4 typewritten pages, and extra handwritten notes on verso of 3rd typewritten page.</note>
 </mods>

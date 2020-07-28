@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>6/7/1925</dateCreated>
       <dateCreated encoding="edtf">1925-06-07</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79042167">Birmingham (Ala.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

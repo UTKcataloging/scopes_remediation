@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>4/21/1925</dateCreated>
       <dateCreated encoding="edtf">1925-04-21</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n2006096002">Grand Canyon Village Historic District (Grand Canyon, Ariz. : City)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

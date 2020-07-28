@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>10/9/1924</dateCreated>
       <dateCreated encoding="edtf">1924-10-09</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79043372">Providence (R.I.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

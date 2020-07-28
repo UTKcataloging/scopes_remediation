@@ -12,6 +12,9 @@
    <abstract>Flyer, "Christianity dependent on the historicity of the Genesis account of the creation and fall of man."</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79021240">Los Angeles (Calif.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

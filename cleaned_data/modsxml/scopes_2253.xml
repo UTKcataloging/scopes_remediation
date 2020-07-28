@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>2/5/1925</dateCreated>
       <dateCreated encoding="edtf">1925-02-05</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n83226061">Columbia (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

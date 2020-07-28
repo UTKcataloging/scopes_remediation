@@ -12,6 +12,9 @@
    <abstract>Typewritten manuscript advocates creationism as opposed to "that atheism and infidelity being taught by immature teachers under the name Evolution."</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79132450">Saint Petersburg (Fla.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -45,6 +48,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">The reverse of two pages identify W. H. Hubbard as the minister of Emmanuel Baptist Church.</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>The reverse of two pages identify W. H. Hubbard as the minister of Emmanuel Baptist Church.</note>
 </mods>

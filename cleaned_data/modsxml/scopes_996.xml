@@ -26,6 +26,9 @@
    </name>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018452">San Francisco (Calif.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

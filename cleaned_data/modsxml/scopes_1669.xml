@@ -12,6 +12,9 @@
    <abstract>Manuscript seeks to show that evolution does not disprove Bible or Biblical creation.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/no2014125489">La Cygne (Kan.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

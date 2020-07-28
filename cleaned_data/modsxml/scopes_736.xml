@@ -12,6 +12,9 @@
    <abstract>Hicks at podium for event supporting Estes Kefauver; Kefauver and unidentified man seated.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n81080249">Cleveland (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>1925</dateCreated>
       <dateCreated encoding="edtf">1925</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79045553">Boston (Mass.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -47,6 +50,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">Marshall also attended the trial.</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>Marshall also attended the trial.</note>
 </mods>

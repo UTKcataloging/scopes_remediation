@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>5/24/1925</dateCreated>
       <dateCreated encoding="edtf">1925-05-24</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79011223">Oklahoma City (Okla.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

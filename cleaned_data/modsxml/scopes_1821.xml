@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/24/1924</dateCreated>
       <dateCreated encoding="edtf">1924-07-24</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79075123">Chattanooga (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>3/12/1981</dateCreated>
       <dateCreated encoding="edtf">1981-03-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79023214">Atlanta (Ga.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

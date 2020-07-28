@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/7/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-07</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007238">New Orleans (La.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

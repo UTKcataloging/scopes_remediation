@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>3/16/1926</dateCreated>
       <dateCreated encoding="edtf">1926-03-16</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80072412">Saint Joseph (Mich.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

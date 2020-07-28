@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/2/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-02</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n89223805">Dayton (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>5/29/1925</dateCreated>
       <dateCreated encoding="edtf">1925-05-29</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

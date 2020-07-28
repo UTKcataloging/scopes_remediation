@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>12/12/1973</dateCreated>
       <dateCreated encoding="edtf">1973-12-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79021240">Los Angeles (Calif.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -47,6 +50,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">2 copies</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>2 copies</note>
 </mods>

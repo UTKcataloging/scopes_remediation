@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>4/12/1940</dateCreated>
       <dateCreated encoding="edtf">1940-04-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79089369">Coral Gables (Fla.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

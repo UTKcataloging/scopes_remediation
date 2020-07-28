@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/6/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-06</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n82091759">Waurika (Okla.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

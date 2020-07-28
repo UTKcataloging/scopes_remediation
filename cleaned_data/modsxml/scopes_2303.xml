@@ -12,6 +12,9 @@
    <abstract>Typewritten poem compares evolutionists to monkeys.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n82145498">East Palestine (Ohio)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

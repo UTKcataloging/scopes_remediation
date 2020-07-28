@@ -12,6 +12,9 @@
    <abstract>Pamphlet promoting religious text on theosophy by Mersene Elon Sloan.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n81020369">Saint Paul (Minn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

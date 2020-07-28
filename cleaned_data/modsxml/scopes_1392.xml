@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>6/6/1925</dateCreated>
       <dateCreated encoding="edtf">1925-06-06</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

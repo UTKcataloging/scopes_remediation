@@ -12,6 +12,9 @@
    <abstract>Typewritten manuscript contains 24 points of questions surrounding evolution and Christianity.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78086438">Chicago (Ill.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -46,6 +49,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">The bottom of the manuscript with authorial information is largely missing, but what is present matches information given in "Evolutionitis"</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>The bottom of the manuscript with authorial information is largely missing, but what is present matches information given in "Evolutionitis"</note>
 </mods>

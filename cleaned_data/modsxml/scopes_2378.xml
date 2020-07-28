@@ -27,6 +27,9 @@
    <originInfo>
       <dateCreated>1925-02</dateCreated>
       <dateCreated encoding="edtf">1925-02</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78086438">Chicago (Ill.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

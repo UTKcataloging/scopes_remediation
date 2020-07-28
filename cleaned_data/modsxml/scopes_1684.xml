@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/27/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-27</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n81081131">Butler, PA</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

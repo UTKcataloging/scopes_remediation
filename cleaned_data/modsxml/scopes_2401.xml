@@ -12,6 +12,9 @@
    <abstract>Typewritten manuscript decries "pseudo-science," claims that evolution "cunningly eliminates the God of the Bible."</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78086438">Chicago (Ill.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

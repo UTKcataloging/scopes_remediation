@@ -12,13 +12,15 @@
    <abstract>Telegram asserts that "simios" do not breed outside their "same family."</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79055428">Havana (Cuba)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
-      <extent>1 telegram</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh99001302">

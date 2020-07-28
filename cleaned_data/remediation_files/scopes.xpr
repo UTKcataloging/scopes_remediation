@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="22.0">
+<project version="22.1">
     <meta>
         <filters directoryPatterns="" filePatterns="\Qscopes.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="22.0" xml:space="preserve">
+            <serialized version="22.1" xml:space="preserve">
                 <serializableOrderedMap>
-                    <entry>
-                        <String>scenario.associations</String>
-                        <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>modscollection.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>modscollection</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                        </scenarioAssociation-array>
-                    </entry>
                     <entry>
                         <String>scenarios</String>
                         <scenario-array>

@@ -12,13 +12,15 @@
    <abstract>Flyer advertising "Concert-Lectures," including a sampling of songs and testimonials.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300435709">signs (declatory or advertising artifacts)</form>
-      <extent>1 flyer</extent>
       <extent>12 in x 9 in</extent>
    </physicalDescription>
    <subject authority="lcsh"

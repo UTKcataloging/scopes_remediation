@@ -7,12 +7,15 @@
    <identifier type="pid">scopes_411</identifier>
    <identifier type="local">0012_000416_000011</identifier>
    <titleInfo>
-      <title/>
+      <title>The Conflict</title>
    </titleInfo>
    <abstract>Volume 1, Number 8 of the newspaper of the Anti-Evolution League of America</abstract>
    <originInfo>
       <dateCreated>4/22/1925</dateCreated>
       <dateCreated encoding="edtf">1925-04-22</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n78095779">Memphis (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

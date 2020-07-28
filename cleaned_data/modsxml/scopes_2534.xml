@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>8/3/1925</dateCreated>
       <dateCreated encoding="edtf">1925-08-03</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/nb2011015791">Davenport, IA</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

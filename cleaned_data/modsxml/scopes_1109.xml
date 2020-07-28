@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/11/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-11</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/nr95032966">Surbiton, England</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -46,6 +49,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <note displayLabel="dpn">Date is written in day month year format.</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>Date is written in day month year format.</note>
 </mods>

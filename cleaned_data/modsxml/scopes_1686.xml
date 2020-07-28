@@ -12,6 +12,9 @@
    <abstract>Booklet on Biblical interpretation by Mersene Elon Sloan.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n81068041">Rome (Ga.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

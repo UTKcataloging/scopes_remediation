@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>6/12/1925</dateCreated>
       <dateCreated encoding="edtf">1925-06-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n97020492">Coconut Grove (Miami, Fla.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
@@ -46,6 +49,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
-   <note displayLabel="dpn">Handwritten copy; typed copy is found earlier in folder.</note>
-   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+   <note>Handwritten copy; typed copy is found earlier in folder.</note>
 </mods>

@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>1924</dateCreated>
       <dateCreated encoding="edtf">1924-05</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n83159812">Yeovil (England)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

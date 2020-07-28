@@ -12,6 +12,9 @@
    <abstract>"Miss Brunzell's Questionnaire" and answers on religion from "Californian evolutionist and Darwinist" Luther Burbank, from the New York Truth Seeker.</abstract>
    <originInfo>
       <dateCreated>unknown</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

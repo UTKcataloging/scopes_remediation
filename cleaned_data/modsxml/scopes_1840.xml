@@ -13,6 +13,9 @@
    <originInfo>
       <dateCreated>7/4/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-04</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n84052601">Nelsonville (Ohio)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

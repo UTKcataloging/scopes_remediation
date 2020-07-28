@@ -27,6 +27,9 @@
    <originInfo>
       <dateCreated>7/22/1925</dateCreated>
       <dateCreated encoding="edtf">1925-07-22</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>

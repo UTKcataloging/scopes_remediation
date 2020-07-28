@@ -14,6 +14,7 @@
 
 <identifier type="pid">{{cells["PID"].value}}</identifier>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
+{{if(isBlank(cells['recordIdentifier'].value), '', '<identifier>' + cells["recordIdentifier"].value + '</identifier>')}}
 
 <titleInfo><title>{{cells["title"].value}}</title></titleInfo>
 
@@ -23,11 +24,19 @@
 
 {{if(isBlank(cells['name.1'].value), '', '<name'+ if(isBlank(cells['name.1_URI'].value), '', ' authority="naf" valueURI="' + cells['name.1_URI'].value + '"') + '><namePart>' + cells['name.1'].value + '</namePart>' + if(isBlank(cells['name.1_role'].value), '', '<role><roleTerm authority="marcrelator" valueURI="' + cells['name.1_role_URI'].value + '">' + cells['name.1_role'].value + '</roleTerm></role>') + '</name>')}}
 
-<originInfo> {{if(isBlank(cells["date"].value),'','<dateCreated>' + cells['date'].value + '</dateCreated>')}}{{if(isBlank(cells["date_edtf"].value),'','<dateCreated encoding="edtf">' + cells['date_edtf'].value + '</dateCreated>')}}</originInfo>
+<originInfo> {{if(isBlank(cells["date"].value),'','<dateCreated>' + cells['date'].value + '</dateCreated>')}}{{if(isBlank(cells["date_edtf"].value),'','<dateCreated encoding="edtf">' + cells['date_edtf'].value + '</dateCreated>')}}
+{{if(isBlank(cells['placeTerm'].value), '', '<place><placeTerm' + if(isBlank(cells['placeTerm_URI'].value), '', ' valueURI="' + cells['placeTerm_URI'].value + '"') + '>' + cells['placeTerm'].value + '</placeTerm></place>')}}
+</originInfo>
 
 <language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['extent'].value}}</extent>{{if(isBlank(cells["extent2"].value),'', '<extent>' + cells['extent2'].value + '</extent>')}}</physicalDescription>
+<physicalDescription>
+<form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form>
+{{if(isBlank(cells['extent'].value), '', '<extent>' + cells['extent'].value + '</extent>')}}
+{{if(isBlank(cells["extent2"].value),'', '<extent>' + cells['extent2'].value + '</extent>')}}
+</physicalDescription>
+
+{{if(isBlank(cells['genre'].value), '', '<genre authority="aat" valueURI="' + cells['genre_URI'].value + '">' + cells['genre'].value + '</genre>')}}
 
 {{if(isBlank(cells['subject.0geographic'].value), '', '<subject' + if(isBlank(cells['subject.0geographic_URI'].value), '>', ' authority="naf" valueURI="' + cells['subject.0geographic_URI'].value + '">') + '<geographic>' + cells['subject.0geographic'].value + '</geographic></subject>')}}
 
@@ -54,11 +63,9 @@
 
 <accessCondition type="use and reproduction" xlink:href="{{cells['Copyright_URI'].value}}">{{cells['Copyright'].value}}</accessCondition>
 
-{{if(isBlank(cells['note.0'].value), '', '<note displayLabel="dpn">' + cells['note.0'].value + '</note>')}}
+{{if(isBlank(cells['note.0'].value), '', '<note>' + cells['note.0'].value + '</note>')}}
 
-{{if(isBlank(cells['note.1'].value), '', '<note displayLabel="dpn">' + cells['note.1'].value + '</note>')}}
-
-{{if(isBlank(cells['note.2'].value), '', '<note displayLabel="dpn">' + cells['note.2'].value + '</note>')}}
+{{if(isBlank(cells['note.1'].value), '', '<note>' + cells['note.1'].value + '</note>')}}
 
 </mods>
 ```
